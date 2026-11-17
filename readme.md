@@ -1,6 +1,6 @@
 # Hello World Program
 
-A small Python program that prints `Hello World`.
+A small Python program that prints `Hello World` and `Hello World from Abhay`.
 
 ## Location
 
@@ -20,4 +20,5 @@ Expected output:
 
 ```text
 Hello World
+Hello World from Abhay
 ```
